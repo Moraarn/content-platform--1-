@@ -63,7 +63,7 @@ export function Navigation() {
           </SheetTrigger>
           <SheetContent side="left" className="pr-0">
             <Link href="/" className="flex items-center gap-2 font-bold text-lg">
-              Engage
+              newstribe
             </Link>
             <div className="my-4 flex flex-col gap-2">
               {routes.map((route) => (
@@ -82,7 +82,7 @@ export function Navigation() {
           </SheetContent>
         </Sheet>
         <Link href="/" className="mr-6 flex items-center gap-2 font-bold text-lg">
-          Engage
+          newstribe
         </Link>
         <nav className="hidden md:flex items-center gap-6 text-sm">
           {routes.map((route) => (

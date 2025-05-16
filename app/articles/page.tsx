@@ -11,7 +11,7 @@ export default function ArticlesPage() {
       <div className="flex flex-col md:flex-row justify-between items-start gap-4">
         <div>
           <h1 className="text-3xl font-bold">Articles</h1>
-          <p className="text-muted-foreground mt-1">Discover and engage with our content</p>
+          <p className="text-muted-foreground mt-1">Discover and newstribe with our content</p>
         </div>
         <div className="w-full md:w-auto flex flex-col sm:flex-row gap-2">
           <div className="relative w-full md:w-[300px]">
